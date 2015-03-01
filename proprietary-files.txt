@@ -14,10 +14,10 @@ vendor/firmware/bcm4334.hcd
 vendor/firmware/BT_FW_VER_BCM4334B0_002.001.013.1792.1803_K_Mini.hcd
 
 # Camera
-lib/hw/camera.universal3470.so
+#lib/hw/camera.universal3470.so
 # Needed by "camera.universal3470.so"
 lib/libhwjpeg.so
-lib/libexynoscamera.so
+#lib/libexynoscamera.so
 # Needed by libexynoscamera.so
 lib/libliveframework.so
 # Needed by "libliveframework.so"
